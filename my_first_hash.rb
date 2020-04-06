@@ -1,6 +1,7 @@
 def my_hash(h)
   h = hash.new
-  h = {"name" => "Adam", "subject" => "learning hashes"}
+  h["name"] = "Adam"
+  h["subject"] = "learning hashes"
 end
 
 

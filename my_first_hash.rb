@@ -1,5 +1,5 @@
-def my_hash(my_hash)
-  my_hash = {"name" => "Adam", "subject" => "learning hashes"}
+def my_hash(my_first_hash)
+  my_first_hash = {"name" => "Adam", "subject" => "learning hashes"}
 end
 
 

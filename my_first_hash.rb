@@ -1,6 +1,6 @@
 def my_hash
-  my_first_hash = {"name" => "Adam", "subject" => "learning hashes"}
-  return my_first_hash
+  me = {"name" => "Adam", "subject" => "learning hashes"}
+  return m
 end
 
 

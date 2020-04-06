@@ -1,4 +1,5 @@
 def my_hash(h)
+  h = hash.new
   h = {"name" => "Adam", "subject" => "learning hashes"}
 end
 
